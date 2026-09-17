@@ -1,0 +1,7 @@
+[2026-09-17T04:05:25Z] === AST ITERATION 1 START | repo=rbarrois/fslib sha=b7d0bb34 ===
+[2026-09-17T04:05:25Z] [iter=1] PHASE START: ast repo=rbarrois/fslib sha=b7d0bb34
+[2026-09-17T04:05:25Z] [iter=1] Building AST aggregate chunks
+[2026-09-17T04:05:30Z] [iter=1] AST chunks built count=1 triples=70058
+[2026-09-17T04:05:30Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/b7d0bb3431fe23530ebd5043d0d518b5b2d108be/.complete
+[2026-09-17T04:05:30Z] [iter=1] PHASE END: ast elapsed_s=5 elapsed_min=0.1
+[2026-09-17T04:05:30Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
