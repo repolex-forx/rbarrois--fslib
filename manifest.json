@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "rbarrois",
+  "repo": "fslib",
+  "versions": [
+    {
+      "commit": "b7d0bb3431fe23530ebd5043d0d518b5b2d108be",
+      "parsed_at": "2026-09-17T04:04:07.797016+00:00",
+      "tag": "v0.3.4",
+      "filetree": "filetree/b7d0bb3431fe23530ebd5043d0d518b5b2d108be.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/41292042519867276c39f906b024a5149a486f69.nq.gz",
+        "blob/b4d25fcac8d1fec19cff5f5eca9fe42db2aec0a9.nq.gz",
+        "blob/cebc4a933d5a0f53e41f1c6fb8209a2f46cdb9cd.nq.gz",
+        "blob/3d3ba65c57870e631f4248dc9a16bf0c56ef9f8f.nq.gz",
+        "blob/723fa5fc89ea36925ee1155eab951928db36850f.nq.gz",
+        "blob/36878081a57df26d60fac40288ca7253b530856b.nq.gz",
+        "blob/5e425f618ae7231d9978049037c17c12602a4cd0.nq.gz",
+        "blob/e4b0b38508cab83694a1f8d449663c59e2b671cc.nq.gz",
+        "blob/1d07143aecc185afc669c20db32291043024307a.nq.gz",
+        "blob/bc713d1267285aa38be0fd9ee5a171e9cc3a6009.nq.gz",
+        "blob/2acf2232995a824c1fc63ea0165148c9b787831b.nq.gz",
+        "blob/a7a486f31f4b650488a449022ceb652bce695731.nq.gz",
+        "blob/5ce3594cb6735c8fcde0e9f2385c047198db50c1.nq.gz",
+        "blob/d492ae2cac5b4752b647695916f0233726c771f1.nq.gz",
+        "blob/c39707f14a04d5f5203fc4d508c04ad39db9b5b8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
