@@ -25,7 +25,13 @@
         "blob/5ce3594cb6735c8fcde0e9f2385c047198db50c1.nq.gz",
         "blob/d492ae2cac5b4752b647695916f0233726c771f1.nq.gz",
         "blob/c39707f14a04d5f5203fc4d508c04ad39db9b5b8.nq.gz"
-      ]
+      ],
+      "ast": [
+        "aggregate/ast/b7d0bb3431fe23530ebd5043d0d518b5b2d108be/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/b7d0bb3431fe23530ebd5043d0d518b5b2d108be.nq.gz",
+      "repolex": "aggregate/repolex/b7d0bb3431fe23530ebd5043d0d518b5b2d108be/chunk-001.nq.gz",
+      "dep": "dep/b7d0bb3431fe23530ebd5043d0d518b5b2d108be.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
